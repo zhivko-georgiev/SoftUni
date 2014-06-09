@@ -21,7 +21,7 @@ Start Visual Studio and play with it. Create a simple C# program (console applic
 
 10. Reformat C# Code - Reformat the following C# code to make it readable according to the C# best practices for code formatting. Change the casing of the identifiers in the code (e.g. use PascalCase for the class name)
 
-11 Programming Languages - Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
+11. Programming Languages - Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
 
 12. Development Environments - Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
 
