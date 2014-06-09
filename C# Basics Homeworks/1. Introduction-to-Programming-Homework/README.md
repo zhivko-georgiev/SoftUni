@@ -7,9 +7,9 @@ Start Visual Studio and play with it. Create a simple C# program (console applic
 
 3. Play with MSDN Library - Play with Microsoft Developer Network (MSDN) Library Documentation. You may find it online at http://msdn.microsoft.com/library.
 
-4. Hello World - Create, compile and run a ?Hello C#? console application. Ensure you have named the application well (e.g.??HelloCSharp?).
+4. Hello World - Create, compile and run a "Hello C#" console application. Ensure you have named the application well (e.g.HelloCSharp).
 
-5. Print Your Name - Modify the previous application to print your name. Ensure you have named the application well (e.g.?PrintMyName?).
+5. Print Your Name - Modify the previous application to print your name. Ensure you have named the application well (e.g.PrintMyName).
 
 6. Print Numbers - Write a program to print the numbers 1, 101 and 1001, each at a separate line.
 
