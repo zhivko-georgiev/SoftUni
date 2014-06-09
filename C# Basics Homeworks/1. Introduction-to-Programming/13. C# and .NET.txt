@@ -1,0 +1,5 @@
+C# and .NET Framework
+
+.NET Framework is a common environment for building, deploying, and running Web Services, Web Applications, Windows Services and Windows Applications. The .NET Framework contains common class libraries - like ADO.NET, ASP.NET and Windows Forms - to provide advanced standard services that can be integrated into a variety of computer systems. The .NET framework is a toolset developed for the Windows platform to allow the developer to interact with the host system or any external entity whether it be another process, or another computer. 
+
+In June 2000 Microsoft released both the .NET platform and a new program language called C#. C# is a general-purpose OOP language designed to give optimum simplicity, expansiveness, and performance. Its syntax is very similar to Java, with the major difference being that all variable types are derived from a common ancestor class. C# is a language in itself. It can perform mathematical and logical operations, variable assignment and other expected traits of a programming language. C# is part of .NET Framework.
