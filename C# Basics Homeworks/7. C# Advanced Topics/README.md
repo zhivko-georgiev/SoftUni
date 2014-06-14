@@ -14,7 +14,7 @@
 
 7. Matrix of Palindromes - Write a program to generate the following matrix of palindromes of 3 letters with r rows and c columns. 
 
-8*. Longest Non-Decreasing Subsequence - Write a program that reads a sequence of integers and finds in it the longest non-decreasing subsequence. In other words, you should remove a minimal number of numbers from the starting sequence, so that the resulting sequence is non-decreasing. In case of several longest non-decreasing sequences, print the leftmost of them. The input and output should consist of a single line, holding integer numbers separated by a space.
+8. Longest Non-Decreasing Subsequence - Write a program that reads a sequence of integers and finds in it the longest non-decreasing subsequence. In other words, you should remove a minimal number of numbers from the starting sequence, so that the resulting sequence is non-decreasing. In case of several longest non-decreasing sequences, print the leftmost of them. The input and output should consist of a single line, holding integer numbers separated by a space.
 
 9. Remove Names - Write a program that takes as input two lists of names and removes from the first list all names given in the second list. The input and output lists are given as words, separated by a space, each list at a separate line.
 
