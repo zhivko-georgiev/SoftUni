@@ -3,14 +3,10 @@
 1. Exchange If Greater - Write an if-statement that takes two integer variables a and b and exchanges their values if the first one is greater than the second one. As a result print the values a and b, separated by a space.
 
 2. Bonus Score - Write a program that applies bonus score to given score in the range [1…9] by the following rules:
-
-• If the score is between 1 and 3, the program multiplies it by 10.
-
-• If the score is between 4 and 6, the program multiplies it by 100.
-
-• If the score is between 7 and 9, the program multiplies it by 1000.
-
-• If the score is 0 or more than 9, the program prints “invalid score”.
+If the score is between 1 and 3, the program multiplies it by 10.
+If the score is between 4 and 6, the program multiplies it by 100.
+If the score is between 7 and 9, the program multiplies it by 1000.
+If the score is 0 or more than 9, the program prints “invalid score”.
 
 3. Check for a Play Card - Classical play cards use the following signs to designate the card face: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K and A. Write a
 program that enters a string and prints “yes” if it is a valid card sign or “no” otherwise.
