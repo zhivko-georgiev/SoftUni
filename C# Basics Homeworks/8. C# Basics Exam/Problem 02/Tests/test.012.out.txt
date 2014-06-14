@@ -1,0 +1,1 @@
+OddSum=-1348717.61, OddMin=-966732.35, OddMax=897780.9, EvenSum=-11118252.3, EvenMin=-963812.86, EvenMax=933377.92

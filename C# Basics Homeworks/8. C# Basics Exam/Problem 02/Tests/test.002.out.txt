@@ -1,0 +1,1 @@
+OddSum=4, OddMin=1, OddMax=3, EvenSum=2, EvenMin=2, EvenMax=2
