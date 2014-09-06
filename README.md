@@ -3,10 +3,11 @@
 <p align="center"><a href="http://softuni.bg/"><img src="https://raw.githubusercontent.com/zhivko-georgiev/SoftUni/master/Others/Software-University-Logo-blue-horizontal.png" /></a></p>
 
 | Programming                                                                                | Web Development                                     
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ 
-| [C# Basics](#c#---part-i)                                                         	     | [HTML Basics](#html-basics)                         
-| [Java Basics](#c---part-ii)                                                                | [CSS Styling](#css-styling)  
-|                                                                                            | [JavaScript Basics](#javascript-basics) 
+| Others																					 |	
+| ------------------------------------------------------------------------------------------ |                         ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| [C# Basics](#c#---part-i)                                                         	     | [HTML Basics](#html-basics)                                                                                    | [Teamwork and Personal Skills](#teamwork-and-personal-skills)                                                                                             
+| [Java Basics](#c---part-ii)                                                                | [CSS Styling](#css-styling)                                                                                     |
+| [JavaScript Basics](#javascript-basics)                                                    |  
 |																							 | [PHP Basics](#php-basics)
 
 <h2 align="center" style="font-family : Tahoma;">Programming</h2>
