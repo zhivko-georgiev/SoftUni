@@ -7,8 +7,7 @@
 | [C# Basics](#c#---part-i)                                                         	     | [HTML Basics](#html-basics)                                                              | [Teamwork and Personal Skills](#teamwork-and-personal-skills)                                                     |                                        
 | [Java Basics](#c---part-ii)                                                                | [CSS Styling](#css-styling)                                                             |
 |                                                                    | [JavaScript Basics](#javascript-basics)
-|												
-| 																     | [PHP Basics](#php-basics)|                                                                    |
+|												                     | [PHP Basics](#php-basics)								                                                             |                                                                     
 
 <h2 align="center" style="font-family : Tahoma;">Programming</h2>
 <h2 align="center" style="font-family : Tahoma;">Web Development</h2>
