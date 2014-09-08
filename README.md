@@ -1,7 +1,7 @@
-<h1 style="font-family : Tahoma;">Software University</h1>
+<h1 align="center">Software University</h1>
 
-<p>Thank you for stopping by :)</br>On this page you can find all homework assignments submitted from me as a student enrolled at the Software University. And also information about the projects to which I contributed.</p>
-<p><a href="http://softuni.bg/"><img src="https://raw.githubusercontent.com/zhivko-georgiev/SoftUni/master/Others/Software-University-Logo-blue-horizontal.png" /></a></p>
+<p align="center">On this page you can find all homework assignments submitted from me as a student enrolled at the Software University. And also information about the projects to which I contributed.</p>
+<p align="center"><a href="http://softuni.bg/"><img src="https://raw.githubusercontent.com/zhivko-georgiev/SoftUni/master/Others/Software-University-Logo-blue-horizontal.png" /></a></p>
 
 | Programming                                                                                | Web Development                                                                                  | Others																					                         |	
 | ------------------------------------------------------------------------------------------ |                         -------------------------------------------------------------------- | -------------------------------------------------------------------- |
