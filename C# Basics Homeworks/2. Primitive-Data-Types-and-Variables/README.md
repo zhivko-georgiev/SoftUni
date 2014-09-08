@@ -15,7 +15,7 @@
 7. Quotes in Strings - Declare two string variables and assign them with following value: 
 	> The "use" of quotations causes difficulties. 
 
-Do the above in two different ways: with and without using quoted strings. Print the variables to ensure that their value was correctly defined.
+	Do the above in two different ways: with and without using quoted strings. Print the variables to ensure that their value was correctly defined.
 
 8. Isosceles Triangle - Write a program that prints an isosceles triangle of 9 copyright symbols ©.
 Note that the © symbol may be displayed incorrectly at the console so you may need to change the console character encoding to UTF-8 and assign a Unicode-friendly font in the console.
@@ -30,7 +30,7 @@ Note that the © symbol may be displayed incorrectly at the console so you may n
 	* Personal ID number (e.g. 8306112507)
 	* Unique employee number (27560000…27569999)
 
-Declare the variables needed to keep the information for a single employee using appropriate primitive data types. Use descriptive names. Print the data at the console.
+	Declare the variables needed to keep the information for a single employee using appropriate primitive data types. Use descriptive names. Print the data at the console.
 
 11. Bank Account Data - A bank account has a holder name (first name, middle name and last name), available amount of money (balance), bank name, IBAN, 3 credit card numbers associated with the account. Declare the variables needed to keep the information for a single bank account using the appropriate data types and descriptive names.
 

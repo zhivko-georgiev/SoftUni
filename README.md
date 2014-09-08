@@ -5,7 +5,7 @@
 
 | Programming                                                                                | Web Development                                                                                  | Others																					                         |	
 | ------------------------------------------------------------------------------------------ |                         -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [C# Basics](#c-basics)                                                         	     | [HTML Basics](#html-basics)                                                              | [Teamwork and Personal Skills](#teamwork-and-personal-skills)                                                     |                                        
+| [C# Basics](##c-basics)                                                         	     | [HTML Basics](#html-basics)                                                              | [Teamwork and Personal Skills](#teamwork-and-personal-skills)                                                     |                                        
 | [Java Basics](#c---part-ii)                                                                | [CSS Styling](#css-styling)                                                             |
 |                                                                    | [JavaScript Basics](#javascript-basics)
 |												                     | [PHP Basics](#php-basics)								                                                             |                                                                     
