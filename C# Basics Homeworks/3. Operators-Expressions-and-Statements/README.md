@@ -26,7 +26,7 @@
 
 10. Point Inside a Circle & Outside of a Rectangle - Write an expression that checks for given point (x, y) if it is within **the circle K({1, 1}, 1.5)** and **out of the rectangle R(top=1, left=-1, width=6, height=2)**.
 
-11. Bitwise: Extract Bit #3 - Using bitwise operators, write an **expression** for finding the value of the bit **#**3 of a given unsigned integer. The bits are counted from right to left, starting from bit #0. The result of the expression should be either **1 or 0**.
+11. Bitwise: Extract Bit #3 - Using bitwise operators, write an **expression** for finding the value of the bit #3 of a given unsigned integer. The bits are counted from right to left, starting from bit #0. The result of the expression should be either **1 or 0**.
 
 12. Extract Bit from Integer - Write an expression that extracts from given integer **n** the value of given **bit at index p**.
 
