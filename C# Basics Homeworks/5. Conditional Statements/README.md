@@ -21,7 +21,7 @@ program that enters a string and prints “**yes**” if it is a valid card sign
 
 8. Digit as Word - Write a program that asks for a **digit** (0-9), and depending on the input, **shows the digit as a word** (in English). Print “not a digit” in case of invalid inut. Use a **switch** statement.
 
-9. Play with Int, Double and String - Write a program that, depending on the user’s choice, inputs an **int, double or string** variable. If the variable is **int or double**, the program increases it by one. If the variable is a **string**, the program appends "*" at the end. Print the result at the console. Use **switch** statement.
+9. Play with Int, Double and String - Write a program that, depending on the user’s choice, inputs an **int, double or string** variable. If the variable is **int or double**, the program increases it by one. If the variable is a **string**, the program appends "\*" at the end. Print the result at the console. Use **switch** statement.
 
 10. Beer Time - A beer time is after 1:00 PM and before 3:00 AM. Write a program that **enters a time** in format “**hh:mm tt**” (an hour in range [01...12], a minute in range [00…59] and AM / PM designator) and prints “**beer time**” or “**non-beer time**” according to the definition above or “**invalid time**” if the time cannot be parsed.
 

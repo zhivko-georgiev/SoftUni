@@ -12,4 +12,4 @@ Total : **390 / 500** - not bad for a rookie like me!
 
 For Problem 2, the extension methods provided by System.Linq played me bad. I tried to determine the Min and Max element from a List of Integers with such methods. Unfortunately, they throw an error when the list is empty. 
 
-For Problem 4, to be honest I haven't got any clue how to solve the problem. I successfully generated all word combinations with the provided letters. And that was all. The author's solution is very interesting. He is using boolean array to check whether specific letter was used or not. Pretty cool!
+For Problem 4, I managed to successfully generate all word combinations with the provided letters. And that was all! The author's solution is very interesting. He is using boolean array to check whether specific letter was used or not. Pretty cool!

@@ -1,6 +1,6 @@
 ﻿##C# Advanced Topics
 
-1. Fibonacci Numbers - Define a method **Fib(n)** that calculates the **nth Fibonacci number**.
+1. Fibonacci Numbers - Define a method **Fib(n)** that calculates the **n-th Fibonacci number**.
 
 2. Prime Checker - Write a Boolean method **IsPrime(n)** that check whether a given integer number **n** is **prime**.
 
