@@ -1,0 +1,10 @@
+﻿
+cd Java-Basics/
+
+cd Intro-Java-Homework/
+
+cd src/
+
+javac CurrentDateTime.java
+
+java CurrentDateTime
