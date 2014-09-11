@@ -13,18 +13,16 @@ public class _05_AngleUnitConverter {
 		// Main Logic
 		for (int i = 0; i <= n; i++) {
 			input = in.nextLine();
-			input = input.replaceAll("\\s+", "");
-			measure = input.replaceAll("\\d+", "");
-			measure = measure.replace(".", "");
-			input = input.replaceAll("[^0-9.,]+", "");
+			input = input.replaceAll("\\s+", ""); // removing any whitespace
+			measure = input.replaceAll("\\d+", ""); // removing any character
+			measure = measure.replace(".", ""); // removing the dot('.')
+			input = input.replaceAll("[^0-9.,]+", ""); // removing the rad/deg text
 
 			// Output
 			if (measure.equals("deg")) {
-				System.out.format("%.6f rad%n",
-						degreesToRadians(Double.parseDouble(input)));
+				System.out.format("%.6f rad%n", degreesToRadians(Double.parseDouble(input)));
 			} else if (measure.equals("rad")) {
-				System.out.format("%.6f deg%n",
-						radiansToDegrees(Double.parseDouble(input)));
+				System.out.format("%.6f deg%n", radiansToDegrees(Double.parseDouble(input)));
 			}
 		}
 	}

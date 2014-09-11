@@ -5,8 +5,7 @@ public class _04_FullHouseWithJokers {
 
 	public static void main(String[] args) {
 
-		String[] cards = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J",
-				"Q", "K", "A", };
+		String[] cards = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A", };
 		char[] suits = { '♣', '♦', '♥', '♠' };
 		int count = 0;
 		Set<String> setOfCards = new HashSet<String>();
