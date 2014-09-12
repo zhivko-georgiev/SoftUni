@@ -4,8 +4,8 @@
 
 1. [Video Durations](http://judge.softuni.bg/Contests/Practice/DownloadResource/110) - 100
 2. [Pythagorean Numbers](http://judge.softuni.bg/Contests/Practice/DownloadResource/111) = 100
-3. [Largest 3 Rectangles](http://judge.softuni.bg/Contests/Practice/DownloadResource/156) = 70
-4. [Couples Frequency](http://judge.softuni.bg/Contests/Practice/DownloadResource/153) = 100
+3. [Largest 3 Rectangles](http://judge.softuni.bg/Contests/Practice/DownloadResource/112) = 70
+4. [Couples Frequency](http://judge.softuni.bg/Contests/Practice/DownloadResource/113) = 100
 
 Total : **370 / 400** - I'm so proud of myself!
 
