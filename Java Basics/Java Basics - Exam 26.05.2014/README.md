@@ -9,4 +9,4 @@
 
 Total : **370 / 400** - I'm so proud of myself!
 
-Initially, I was so scared from Java(probably because of Eclipse) since my first experience with programming was with C#(and Visual Studio respectively). But with till the end of the course I started to really like it. For me, Java is like the bigger brother of C#. They have so many in common. I would say that I like both languages, their predictiveness, strong typing, error handling and so on.
+Initially, I was so scared from Java (probably because of Eclipse) since my first experience with programming was with C# (and Visual Studio respectively). But till the end of the course I started to really like it. For me, Java is like the older brother of C#. They have so many in common. I would say that I like both languages, their predictiveness, strong typing, error handling and so on.
