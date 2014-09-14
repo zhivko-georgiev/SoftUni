@@ -9,6 +9,7 @@ Hint: Use table for the layout. Link the SoftUni logo with https://softuni.bg.
 
 ## 2. Exam Results
 Create an HTML table like the image below (100% accuracy is not required). Use semantic table tags: `<thead>`, `<tfoot>`, `<tbody>`, etc.
+
 ![Screenshot](https://raw.githubusercontent.com/zhivko-georgiev/SoftUni/master/Web%20Fundamentals%20-%20HTML%20+%20CSS/2.%20HTML5%20Tables%20-%20Homework/Screenshots/2.%20Exam%20Results.PNG)
 
 ## 3. Nested Tables
@@ -27,9 +28,11 @@ Create an HTML page like the image below (100% accuracy is not required).
 ## 6. Life in SoftUni Keyboard
 Create an HTML page like the image below (100% accuracy is not required). The buttons must open web pages in new tab (by your choice). You can change the content of the buttons by your liking.
 ![Screenshot](https://raw.githubusercontent.com/zhivko-georgiev/SoftUni/master/Web%20Fundamentals%20-%20HTML%20+%20CSS/2.%20HTML5%20Tables%20-%20Homework/Screenshots/6.%20Life%20in%20SoftUni%20Keyboard.PNG)
+
 *Hint: Use tables and buttons.*
 
 ## 7. Calculator
 Create a simple fully functional calculator, similar to the image below. You can use styles by your liking.
 ![Screenshot](https://raw.githubusercontent.com/zhivko-georgiev/SoftUni/master/Web%20Fundamentals%20-%20HTML%20+%20CSS/2.%20HTML5%20Tables%20-%20Homework/Screenshots/7.%20Calculator.PNG)
+
 *Hint: Use JavaScript to achieve the functionality of the calculator. You may calculate the entered expression by the eval(expression) function in JavaScript.*
