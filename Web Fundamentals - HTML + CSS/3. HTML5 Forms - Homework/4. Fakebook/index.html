@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Fakebook</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<form method="post">
+		<header>
+			<h1>fakebook<span> &reg;</span></h1>
+			<h2>Registration</h2>
+			<h4>It is safe and it will always be!</h4>
+		</header>
+		
+		<fieldset id="left">
+			<legend>None-imporant Information</legend>
+			<input type="text" placeholder="First Name" />
+			<input type="text" placeholder="Last Name" />
+			<input type="email" placeholder="Your Email" />
+			<input type="tel" placeholder="Phone Number" />
+			<input type="password" placeholder="Your Password" />
+			<input type="url" placeholder="Website" />
+
+			<label for="bday">Birthday</label>
+			<input type="date" id="bday" value="2014-09-05" />
+			<div id="gender">
+				<input type="radio" name="gender" id="female">
+				<label for="female">Female</label>
+				<input type="radio" name="gender" id="male">
+				<label for="male">Male</label>
+				<input type="radio" name="gender" id="other" checked>
+				<label for="other">Other</label>
+			</div>
+		</fieldset>
+		
+		<fieldset id="right">
+			<legend>Important Information *required</legend>
+			<input type="text" placeholder="Country" required/>
+			<input type="text" placeholder="Village" required tabindex="3"/>
+			<input type="text" placeholder="District" required/>
+			<input type="text" placeholder="Street" required tabindex="2"/>
+			<input type="text" class="small-field" placeholder="Nr" required/>
+			<input type="text" class="small-field" placeholder="Floor" required tabindex="-1"/>
+			<input type="text" class="small-field" placeholder="Ap Nr" required/>
+			<label for="door">Door Color</label>
+            <div id="important-stuff">
+                <input id="door" type="color" value="#FF80C0" tabindex="-1"/>
+                <input type="text" placeholder="Water Meter Nr" required tabindex="-1"/>
+                <select id="panties" tabindex="1">
+                    <option hidden selected>Aunt Panties' Size</option>
+                    <option>S</option>
+                    <option>M</option>
+                    <option>L</option>
+                    <option>XL</option>
+                    <option>XXL</option>
+                </select>
+            </div>
+			<label for="more">More Personal Information</label>
+			<textarea id="more" placeholder="Give Us More Information!!!"></textarea>
+		</fieldset>
+        <input type="reset" value="Clear Form" class="buttons"/>
+        <input type="submit" value="Register" id="reg-button" class="buttons"/>
+	</form>
+</body>
+</html>

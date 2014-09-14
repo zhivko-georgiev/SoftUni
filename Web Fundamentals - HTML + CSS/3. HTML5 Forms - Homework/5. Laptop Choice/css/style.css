@@ -1,0 +1,70 @@
+#wrapper {
+    margin: 0 auto;
+    max-width: 910px;
+    font-family: tahoma;
+}
+section {
+    float: left;
+    width: 75%;
+    color: #2C425A;
+}
+button {
+    width: 32%;
+    height: 260px;
+    padding: 0;
+    border: 1px solid #D9EEFA;
+    border-radius: 5px;
+    background-color: white;
+    color: #2C425A;
+    font-size: 120%;
+    text-align: center;
+    border-radius: 5px;
+}
+    button:hover {
+        cursor: pointer;
+        background-color: lightgray;
+    }
+    button .title {
+        font-weight: bold;
+    }
+    button .specs {
+        display: inline-block;
+        text-align: left;
+        font-style: oblique;
+        margin-left: 15px;
+    }
+    button .prize {
+        color: white;
+        background-color: #2C425A;
+        border-top-left-radius: 10px;
+        display: block;
+        height: 2.1em;
+        width: 5.7em;
+        float: right;
+        line-height: 40px;
+    }
+    
+
+aside {
+    position: absolute;
+    display: inline-block;
+    width: 25%;
+    color: #2C425A;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+
+    
+}
+    aside p {
+       text-align: center;
+    }
+    aside div {
+        border: 1px solid #2C425A;
+    }
+    aside input {
+        width: 99%;
+    }
+    aside .max {
+        float: right;
+    }

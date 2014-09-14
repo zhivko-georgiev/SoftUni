@@ -1,0 +1,92 @@
+form {
+	color: white;
+	background-color: #3B5997;
+	width: 550px;
+	height: 400px;
+	text-align: center;
+	font-weight: bold;
+}
+	form h1 {
+		font-size: 95px;
+		margin-top: 0;
+		margin-bottom: -20px;
+	}
+		form h1 span {
+			font-size: 20px;
+		}
+		form h4 {
+		margin-top: -15px;
+        margin-bottom: 10px;
+	}
+	form fieldset {
+		font-size: 75%;
+        vertical-align: top;
+        border-radius: 5px;
+	}
+	form input, select, textarea {
+        border-radius: 5px;
+    }
+    form label {
+		display: block;
+		text-align: left;
+        margin-left: 5px;
+	}
+	form .buttons {
+        margin-top: 10px;
+        height: 30px;
+        width: 39%;
+    }
+    	#reg-button {
+            width: 54%;
+        }	
+	
+#right {
+	display: inline-block;
+	width: 50%;	
+}
+	#right input {
+		width: 30%;
+	}
+	#right .small-field {
+		width: 19%;
+	}
+    #right textarea {
+        margin-bottom: -4px;
+    }
+    #important-stuff * {
+        display: inline;
+        width: 31%;
+    }
+	#more {
+		display: block;
+		width: 100%;
+	}
+    #door {
+        height: 17px;
+    }
+    #panties {
+        height: 23px;
+        font-size: 80%;
+    }
+
+#left {
+	display: inline-block;
+	width: 35%;
+}
+	#left input {
+		width: 45%;
+	}
+    #left #bday {
+        width: 75%;
+        display: block;
+        margin-bottom: 5px;
+        margin-left: 5px;
+    }
+    #gender #female {
+        margin-left: -100px;
+    }
+    #gender * {
+        margin-right: -37px;
+        font-size: 85%;
+        display: inline;
+    }

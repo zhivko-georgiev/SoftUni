@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Laptop Choice</title>
+</head>
+<body>
+<div id="wrapper">
+    <section>
+        <h2>Apple's Laptops (6)</h2>
+        <button onclick="window.open('http://www.apple.com/', '_blank')">
+            <span class="title">Apple MacBook Air</span>
+            <br><span class="specs">11.6 inch/1.3GHz Haswell</span>
+            <img src="images/mac.png" alt="mac"/>
+            <span class="prize">&dollar;1,129.00</span>
+        </button>
+        <button onclick="window.open('http://www.apple.com/', '_blank')">
+            <span class="title">Apple MacBook Air</span>
+            <br><span class="specs">11.6 inch/1.4GHz Haswell</span>
+            <img src="images/mac-new.png" alt="mac"/>
+            <span class="prize">&dollar;1,825.00</span>
+        </button>
+        <button onclick="window.open('http://www.apple.com/', '_blank')">
+            <span class="title">Apple MacBook Air</span>
+            <br><span class="specs">13.3 inch/1.3GHz Haswell</span>
+            <img src="images/mac.png" alt="mac"/>
+            <span class="prize">&dollar;1,919.00</span>
+        </button>
+        <button onclick="window.open('http://www.apple.com/', '_blank')">
+            <span class="title">Apple MacBook Air</span>
+            <br><span class="specs">13.3 inch/1.4GHz Haswell 256GB SSD</span>
+            <img src="images/mac.png" alt="mac"/>
+            <span class="prize">&dollar;1,999.00</span>
+        </button>
+        <button onclick="window.open('http://www.apple.com/', '_blank')">
+            <span class="title">Apple MacBook Air</span>
+            <br><span class="specs">11.6 inch/1.4GHz Haswell</span>
+            <img src="images/mac-new.png" alt="mac"/>
+            <span class="prize">&dollar;2,119.00</span>
+        </button>
+        <button onclick="window.open('http://www.apple.com/', '_blank')">
+            <span class="title">Apple MacBook Pro</span>
+            <br><span class="specs">13.3 inch/2.5GHz Ivy Bridge</span>
+            <img src="images/mac2.png" alt="mac"/>
+            <span class="prize">&dollar;2,529.00</span>
+        </button>
+    </section>
+    <aside>
+        <div>
+            <p>Price : <span class="range-val-label" id="range-val-price">2000</span> $</p>
+            <span class="min">1600</span>
+            <span class="max">2600</span>
+            <br><input type="range" name="price" id="price" min="1600" max="2600" step="100" onchange="document.getElementById('range-val-price').innerHTML = this.value;">
+        </div>
+        <div>
+            <p>RAM : <span class="range-val-label" id="range-val-ram">4096</span>  MB</p>
+            <span class="min">2048</span>
+            <span class="max">8192</span>
+            <br><input type="range" min="2048" max="8192" step="512" onchange="document.getElementById('range-val-ram').innerHTML = this.value;">
+        </div>
+        <div>
+            <p>Disc :  <span class="range-val-label" id="range-val-disc">1050</span>  GB</p></p>
+            <span class="min">100GB</span>
+            <span class="max">2000GB</span>
+            <br><input type="range" min="100" max="2000" step="50"  onchange="document.getElementById('range-val-disc').innerHTML = this.value;"/>
+        </div>
+        <div>
+            <p>Display : <span class="range-val-label" id="range-val-display">14.4</span>  inches</p>
+            <span class="min">10.1</span>
+            <span class="max">18.4</span>
+            <br><input type="range" min="10.1" max="18.4" step="0.1" onchange="document.getElementById('range-val-display').innerHTML = this.value;"/>
+        </div>
+        <div>
+            <p>Weight : <span class="range-val-label" id="range-val-weight">3</span> kg</p>
+            <span class="min">1</span>
+            <span class="max">6</span>
+            <br><input type="range" min="1" max="6" step="0.1" onchange="document.getElementById('range-val-weight').innerHTML = this.value;"/>
+        </div>
+        <div>
+            <p>Warranty : <span class="range-val-label" id="range-val-warranty">36</span> months</p>
+            <span class="min">12 month</span>
+            <span class="max">60 month</span>
+            <br><input type="range" min="12" max="60" step="12" onchange="document.getElementById('range-val-warranty').innerHTML = this.value;"/>
+        </div>
+    </aside>
+</div>
+</body>
+</html>
