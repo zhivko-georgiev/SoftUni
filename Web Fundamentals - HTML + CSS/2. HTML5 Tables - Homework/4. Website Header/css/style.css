@@ -1,0 +1,25 @@
+table {
+    background-color: #234465;
+    width: 80%;
+    height: 20%;
+    text-transform: uppercase;
+}
+    table a {
+        text-decoration: none;
+        color: white;
+        cursor: pointer;
+    }
+    table .first-row {
+        text-align: right;
+        padding: 10px 20px 0;
+        width: 100%;
+    }
+    table #second-row {
+        list-style-type: none;
+        margin-left: 140px;
+    }
+        #second-row li {
+            margin: 15px;
+            display: inline;
+            font-weight: bold;
+        }
