@@ -32,3 +32,15 @@
 * [Exam Java Basics - 26.05.2014](http://judge.softuni.bg/Contests/12/Java-Basics-Exam-26-May-2014) - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Java%20Basics/Java%20Basics%20-%20Exam%2026.05.2014/README.md))
 * [Team Project - Sample Ping Pong Game](https://github.com/zhivko-georgiev/SoftUni/tree/master/Java%20Basics/Team%20Project) - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Java%20Basics/Team%20Project/README.md))
 
+## HTML Basics
+
+1. [HTML5 Overview]() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* []() - ([conditions]()) - ([Live Preview]())
+* 

@@ -1,0 +1,61 @@
+body, h1, ul, li, section, header, div, span {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("../images/softuni-background.jpg") no-repeat;
+    background-size: 100%;
+    color: #f3be60;
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+}
+
+h1 {
+    margin: 30px 0 0 20px;
+    padding: 0;
+    font-size: 38px;
+}
+
+section {
+    margin: 10px 0 0 65px;
+}
+
+    section ul ul {
+        background-color: #20201e;
+        padding: 5px;
+        width: 90%;
+        margin: 10px 0 10px 23px;
+        border: 2px solid #c7bfac;
+    }
+
+        section ul ul li {
+            font: bold 24px Consolas;
+            color: #fff;
+            list-style-type: none;
+        }
+
+.tab-left {
+    margin-left: 1.7em;
+}
+
+li {
+    list-style-type: square;
+    font: bold 34px Consolas;
+}
+
+.li-titles {
+    font: normal 34px Calibri;
+    color: #fff;
+}
+
+footer {
+    position: absolute;
+    left: -10px;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    color: #fff;
+    text-align: right;
+}
