@@ -5,8 +5,8 @@
 
 | Programming                                                                                | Web Development                                                                                  | Others																					                         |	
 | ------------------------------------------------------------------------------------------ |                         -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [C# Basics](#c-basics)                                                         	     | [HTML5 Basics](#web-fundamentals---html5---css3)                                                              | [Teamwork and Personal Skills](#teamwork-and-personal-skills)                                                     |                                        
-| [Java Basics](#java-basics)                                                                | [CSS3 Basics](##web-fundamentals---html5---css3)                                                             |
+| [C# Basics](#c-basics)                                                         	     | [HTML5 Basics](#web-fundamentals---html5--css3)                                                              | [Teamwork and Personal Skills](#teamwork-and-personal-skills)                                                     |                                        
+| [Java Basics](#java-basics)                                                                | [CSS3 Basics](#web-fundamentals---html5--css3)                                                             |
 |                                                                    | [JavaScript Basics](#javascript-basics)
 |												                     | [PHP Basics](#php-basics)								                                                             |
 
@@ -42,3 +42,4 @@
 * [CSS Presentation]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/6.%20CSS%20Presentation%20Homework/index.html))
 * [CSS Layout]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/7.%20CSS%20Layout%20Homework/index.html))
 * [Responsive Design & Bootstrap]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/8.%20Responsive%20Design%20&%20Bootstrap%20Homework/index.html))
+https://github.com/zhivko-georgiev/SoftUni#web-fundamentals---html5--css3
