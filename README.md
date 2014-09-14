@@ -32,15 +32,13 @@
 * [Exam Java Basics - 26.05.2014](http://judge.softuni.bg/Contests/12/Java-Basics-Exam-26-May-2014) - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Java%20Basics/Java%20Basics%20-%20Exam%2026.05.2014/README.md))
 * [Team Project - Sample Ping Pong Game](https://github.com/zhivko-georgiev/SoftUni/tree/master/Java%20Basics/Team%20Project) - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Java%20Basics/Team%20Project/README.md))
 
-## HTML Basics
+## Web Fundamentals - HTML5 + CSS3
 
 1. [HTML5 Overview](https://github.com/zhivko-georgiev/SoftUni/tree/master/Web%20Fundamentals%20-%20HTML%20%2B%20CSS/1.%20HTML5%20Overview%20-%20Homework) - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Web%20Fundamentals%20-%20HTML%20%2B%20CSS/1.%20HTML5%20Overview%20-%20Homework/README.md)) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/HTML5%20Overview%20-%20Homework/index.html))
-* []() - ([conditions]()) - ([Live Preview]())
-* []() - ([conditions]()) - ([Live Preview]())
-* []() - ([conditions]()) - ([Live Preview]())
-* []() - ([conditions]()) - ([Live Preview]())
-* []() - ([conditions]()) - ([Live Preview]())
-* []() - ([conditions]()) - ([Live Preview]())
-* []() - ([conditions]()) - ([Live Preview]())
-* []() - ([conditions]()) - ([Live Preview]())
-* 
+* [HTML5 Tables]() - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Web%20Fundamentals%20-%20HTML%20%2B%20CSS/2.%20HTML5%20Tables%20-%20Homework/README.md)) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/2.%20HTML%20Tables%20-%20Homework/index.html))
+* [HTML5 Forms]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/3.%20HTML5%20Forms%20-%20Homework/index.html))
+* [Semantic HTML, Frames, Other Tags]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/4.%20HTML5%20Other%20Tags/index.html))
+* [CSS Overview]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/5.%20CSS%20Overview%20-%20Homework/index.html))
+* [CSS Presentation]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/6.%20CSS%20Presentation%20Homework/index.html))
+* [CSS Layout]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/7.%20CSS%20Layout%20Homework/index.html))
+* [Responsive Design & Bootstrap]() - ([conditions]()) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/8.%20Responsive%20Design%20&%20Bootstrap%20Homework/index.html))
