@@ -34,7 +34,7 @@
 
 ## HTML Basics
 
-1. [HTML5 Overview]() - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Web%20Fundamentals%20(HTML%20%2B%20CSS)/1.%20HTML5%20Overview%20-%20Homework/README.md)) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/HTML5%20Overview%20-%20Homework/index.html))
+1. [HTML5 Overview]() - ([conditions](https://github.com/zhivko-georgiev/SoftUni/blob/master/Web%20Fundamentals%20HTML%20%2B%20CSS)/1.%20HTML5%20Overview%20-%20Homework/README.md)) - ([Live Preview](http://zhivko.softuni-friends.org/homeworks/HTML5%20Overview%20-%20Homework/index.html))
 * []() - ([conditions]()) - ([Live Preview]())
 * []() - ([conditions]()) - ([Live Preview]())
 * []() - ([conditions]()) - ([Live Preview]())
