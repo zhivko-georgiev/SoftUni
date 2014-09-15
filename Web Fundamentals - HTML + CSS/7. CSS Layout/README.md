@@ -22,5 +22,3 @@ Create a HTML page like the image below. Use *external CSS file* for the styles.
 
 ## 5. Pretty Responsive Website
 Make *responsive* the HTML page from the previous problem. Optimize it for tablets and smartphones.
-
-![Screenshot]()
