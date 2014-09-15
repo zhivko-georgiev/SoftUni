@@ -1,0 +1,203 @@
+#container {
+	background-color: #00923E;
+	width: 980px;
+	height: 320px;
+	padding-top: 5px;
+}
+
+table {
+	width: 940px;
+	margin: 10px auto;
+	background-color: #fff;
+	border-radius: 20px;
+	border-collapse: separate;
+	border: 2px solid #000;
+	border-style: none;
+	border-spacing: 0;
+}
+
+table td, th {
+	border: 2px solid #000;
+	padding: 10px 3px 10px 3px;
+}
+
+table th {
+	background-color: #F8C711;
+	color: #000;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+	border-left: 2px solid #000;
+	 border-top:2px solid #000;
+	border-bottom:2px solid #000;
+}
+
+tr:nth-child(odd) {
+	background-color: #fff;
+}
+tr:nth-child(even) {
+	background-color: #C8C8C8;
+}
+
+.result {
+	text-align: center;
+	font-size: 16px;
+}
+
+.group {
+	text-align: center;
+	font-size: 16px;
+}
+
+.disable {
+	width: 40px;
+	background-image: url("../images/red-bet.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	background-position: center;
+}
+.enable {
+	width: 40px;
+	background-image: url("../images/green-bet.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	background-position: center;
+}
+.disable1 {
+	width: 40px;
+	background-image: url("../images/red-bet1.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	background-position: center;
+}
+.enable1 {
+	width: 40px;
+	background-image: url("../images/green-bet1.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	background-position: center;
+
+}
+.country {
+	text-align: right;
+	font-size: 16px;
+
+}	
+.option {
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+	width: 100px;
+}
+.red {
+	width: 35px;
+	color: #D00A0A;
+}
+.green {
+	color: #90C563;
+	width: 32px;
+	display: inline-block;
+}
+
+.left-brazil {
+	background-image: url("../images/brazil-flag.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: right;
+	padding-right: 30px;
+	font-size: 16px;
+}
+
+.right-mexico {
+	background-image: url("../images/mexico-flag.png");
+	background-position: left;
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-left: 30px;
+	font-size: 16px;
+}
+
+.left-spain {
+	background-image: url("../images/spain-flag.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: right;
+	padding-right: 30px;
+	font-size: 16px;
+}
+
+.right-netherlands {
+	background-image: url("../images/netherlands-flag.png");
+	background-position: left;
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-left: 30px;
+	font-size: 16px;
+}
+
+.left-italy {
+	background-image: url("../images/italy-flag.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: right;
+	padding-right: 30px;
+	font-size: 16px;
+}
+
+.right-england {
+	background-image: url("../images/england-flag.png");
+	background-position: left;
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-left: 30px;
+	font-size: 16px;
+}
+
+.left-argentina {
+	background-image: url("../images/argentina-flag.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: right;
+	padding-right: 30px;
+	font-size: 16px;
+}
+
+.right-bosnia {
+	background-image: url("../images/bosnia-flag.png");
+	background-position: left;
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-left: 30px;
+	font-size: 16px;
+}
+
+.left-germany {
+	background-image: url("../images/germany-flag.png");
+	background-position: right;
+	background-repeat: no-repeat;
+	text-align: right;
+	padding-right: 30px;
+	font-size: 16px;
+}
+
+.right-portugal {
+	background-image: url("../images/portugal-flag.png");
+	background-position: left;
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-left: 30px;
+	font-size: 16px;
+}
+
+table th:first-child {
+	border-radius: 20px 0 0 0;
+}
+table th:last-child {
+	border-radius: 0 20px 0 0;
+}
+table tr:last-child  td:first-child {
+	border-radius: 0 0 0 20px;
+}
+table tr:last-child td:last-child {
+	border-radius: 0 0 20px 0;
+}
