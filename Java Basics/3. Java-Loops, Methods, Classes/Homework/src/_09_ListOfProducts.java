@@ -5,20 +5,21 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 public class _09_ListOfProducts {
 
 	public static void main(String args[]) {
 
-		// Create an Array list of type 'Product' to store the products
-		ArrayList<Product> products = new ArrayList<Product>();
-		// Open the file 'List Of Products.txt' to read from it and copy/write
-		// to file 'Sorted List Of Products.txt'
-		try {
-			BufferedReader reader = new BufferedReader(new FileReader("List Of Products.txt"));
-			BufferedWriter writer = new BufferedWriter(new FileWriter("Sorted List Of Products.txt"));
-			
-			String input;
+		List<Product> products = new ArrayList<Product>();
+
+		try (BufferedReader reader = new BufferedReader(new FileReader(
+				"List Of Products.txt"));
+				BufferedWriter writer = new BufferedWriter(new FileWriter(
+						"Sorted List Of Products.txt"));) {
+
+			String input = null;
+
 			while ((input = reader.readLine()) != null) {
 				String[] splited = input.split(" ");
 				products.add(new Product(splited[0], Double
@@ -28,13 +29,11 @@ public class _09_ListOfProducts {
 			Collections.sort(products);
 
 			for (Product product : products) {
-				writer.write(product.getPrice() + " " + product.getName() + "\r\n");
+				writer.write(product.getPrice() + " " + product.getName()
+						+ "\n");
 			}
-			reader.close();
-			writer.close();
-		} catch (IOException exception) {
-			System.out.println("Error");
-			exception.printStackTrace();
+		} catch (IOException ioe) {
+			System.out.println("Error : " + ioe.getLocalizedMessage());
 		}
 	}
 }

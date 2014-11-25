@@ -1,3 +1,5 @@
+import javax.print.attribute.standard.MediaSize.Other;
+
 public class Product implements Comparable<Product> {
 
 	private String name;
@@ -28,14 +30,8 @@ public class Product implements Comparable<Product> {
 	}
 
 	@Override
-	public int compareTo(Product product) {
-		double price = product.getPrice();
-		if (this.price > price) {
-			return 1;
-		} else if (this.price == price) {
-			return 0;
-		} else {
-			return -1;
-		}
-	}    
+	public int compareTo(Product other) {
+		return this.getPrice() == other.getPrice() ? 0
+				: (this.getPrice() < other.getPrice() ? -1 : 1);
+	}
 }
