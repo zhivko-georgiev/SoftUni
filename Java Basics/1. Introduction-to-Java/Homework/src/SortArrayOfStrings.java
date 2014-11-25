@@ -6,11 +6,12 @@ public class SortArrayOfStrings {
 	public static void main(String[] args) {
 		// Input
 		Scanner sc = new Scanner(System.in);
-		int n = sc.nextInt();
 		
+		int n = sc.nextInt();
 		String[] arrayOfStrings = new String[n];
 		
-		arrayOfStrings[0] = sc.nextLine();
+		sc.nextLine();
+		
 		for (int i = 0; i < n; i++) {
 			arrayOfStrings[i] = sc.nextLine(); 	
 		}
