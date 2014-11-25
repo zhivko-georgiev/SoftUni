@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class _09_CombineListOfLetters {
@@ -7,9 +8,10 @@ public class _09_CombineListOfLetters {
 		
 		// Input
 		Scanner input = new Scanner(System.in);
-		ArrayList<Character> firstList = new ArrayList<>();
-		ArrayList<Character> secondList = new ArrayList<>();
-		ArrayList<Character> allTogether = new ArrayList<>();
+		
+		List<Character> firstList = new ArrayList<>();
+		List<Character> secondList = new ArrayList<>();
+		List<Character> allTogether = new ArrayList<>();
 
 		for (char ch : input.nextLine().toCharArray()) {
 			firstList.add(ch);

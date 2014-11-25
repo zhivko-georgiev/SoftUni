@@ -14,8 +14,7 @@ public class _08_ExtractEmails {
 				+ "(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9]+"
 				+ "(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})");
 		Matcher emailsMatcher = emailsPattern.matcher(inputText);
-		
-		
+
 		while (emailsMatcher.find()) {
 			System.out.println(emailsMatcher.group());
 		}

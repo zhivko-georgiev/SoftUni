@@ -25,8 +25,8 @@ public class _12_CardsFrequencies {
 		
 		// Output
 		for (Map.Entry<String, Integer> entry : cardFaces.entrySet()) {
-			double precentage = ((double) entry.getValue() * 100) / allCards.length;
-			System.out.printf("%s -> %.2f%%\n", entry.getKey(), precentage);
+			double percentage = ((double) entry.getValue() * 100) / allCards.length;
+			System.out.printf("%s -> %.2f%%\n", entry.getKey(), percentage);
 		}
 	}
 }
